@@ -3,7 +3,8 @@
 
 exports:
     header-dirs:
-        - SDL/bin/include
+        - config
         - SDL/include
+        - SDL/src
     modules:
         SDL2: .
